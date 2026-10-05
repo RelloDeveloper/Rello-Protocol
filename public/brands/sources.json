@@ -1,0 +1,134 @@
+[
+  {
+    "file": "paypal.svg",
+    "name": "PayPal",
+    "source": "https://www.paypal.com/us",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "zelle.svg",
+    "name": "Zelle",
+    "source": "https://www.zellepay.com",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "venmo.svg",
+    "name": "Venmo",
+    "source": "https://venmo.com/about/brand",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "cash-app.svg",
+    "name": "Cash App",
+    "source": "https://cash.app/press",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "revolut.svg",
+    "name": "Revolut",
+    "source": "https://developer.revolut.com/docs/resources/marketing-assets-guidelines/marketing-guidelines",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "wise.svg",
+    "name": "Wise",
+    "source": "https://wise.design/foundations/logo",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "x-money.svg",
+    "name": "X",
+    "source": "https://x.com",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "apple-cash.svg",
+    "name": "Apple",
+    "source": "https://www.apple.com",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "google-pay.svg",
+    "name": "Google Pay",
+    "source": "https://pay.google.com/intl/en_us/about/",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "lydia.svg",
+    "name": "Lydia",
+    "source": "https://lydia-app.com/en/info/press.html",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "payoneer.svg",
+    "name": "Payoneer",
+    "source": "https://www.payoneer.com",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "wechat-pay.svg",
+    "name": "WeChat",
+    "source": "https://wechat.design/tool/brand",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "alipay.svg",
+    "name": "Alipay",
+    "source": "https://global.alipay.com/docs/ac/website_hk/design",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "pix.svg",
+    "name": "Pix",
+    "source": "https://www.bcb.gov.br/estabilidadefinanceira/pix",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "mercado-pago.svg",
+    "name": "Mercado Pago",
+    "source": "https://www.mercadopago.com",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "n26.svg",
+    "name": "N26",
+    "source": "https://n26.com",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "monzo.svg",
+    "name": "Monzo",
+    "source": "https://monzo.com/press/",
+    "license": "Simple Icons CC0; brand trademarks remain with their owners."
+  },
+  {
+    "file": "metamask.svg",
+    "source": "https://github.com/0xa3k5/web3icons",
+    "package": "@web3icons/react 4.1.23",
+    "license": "MIT; brand trademarks remain with their owners."
+  },
+  {
+    "file": "coinbase-wallet.svg",
+    "source": "https://github.com/0xa3k5/web3icons",
+    "package": "@web3icons/react 4.1.23",
+    "license": "MIT; brand trademarks remain with their owners."
+  },
+  {
+    "file": "rabby.svg",
+    "source": "https://github.com/0xa3k5/web3icons",
+    "package": "@web3icons/react 4.1.23",
+    "license": "MIT; brand trademarks remain with their owners."
+  },
+  {
+    "file": "trust-wallet.svg",
+    "source": "https://github.com/0xa3k5/web3icons",
+    "package": "@web3icons/react 4.1.23",
+    "license": "MIT; brand trademarks remain with their owners."
+  },
+  {
+    "file": "rainbow.svg",
+    "source": "https://github.com/0xa3k5/web3icons",
+    "package": "@web3icons/react 4.1.23",
+    "license": "MIT; brand trademarks remain with their owners."
+  }
+]
