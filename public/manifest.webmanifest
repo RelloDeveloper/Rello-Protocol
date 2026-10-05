@@ -1,0 +1,1 @@
+{"name": "Rello", "short_name": "Rello", "start_url": "/app", "display": "standalone", "background_color": "#080b13", "theme_color": "#2158ff", "icons": [{"src": "/brand/rello-icon.png", "sizes": "1280x1280", "type": "image/png", "purpose": "any"}]}
