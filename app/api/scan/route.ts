@@ -1,0 +1,2 @@
+import {scan,validAddress} from '../../../lib/chain';
+export async function GET(request:Request){const address=new URL(request.url).searchParams.get('address')||'';if(!validAddress(address))return Response.json({error:'Enter a valid EVM wallet address.',code:'INVALID_ADDRESS'},{status:400});try{return Response.json(await scan(address),{headers:{'Cache-Control':'private, max-age=60'}})}catch(e:any){return Response.json({error:e.message,code:'EXPLORER_UNAVAILABLE'},{status:503})}}
